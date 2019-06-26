@@ -1,12 +1,21 @@
-# Short Course on Optimization for Machine Learning
-Slides and Practical Labs - DS3 Data Science Summer School, June 24 to 28, 2019, Paris, France
+# 1-day Course on Optimization for Machine Learning
+Slides and Practical Labs - [DS3 Data Science Summer School](https://ds3-datascience-polytechnique.fr), June 24 to 28, 2019, Paris, France
 
-Slides: 
+### Materials:
+ - Slides: 
 [here](../../raw/master/slides-summer-school.pdf)
 
-
-
-Additional lecture notes and exercises: [here](https://github.com/epfml/OptML_course/raw/master/lecture_notes/lecture-notes.pdf)
+ - Additional lecture notes and exercises: [here](https://github.com/epfml/OptML_course/raw/master/lecture_notes/lecture-notes.pdf)
+ 
+ - Practical Python Notebooks:
+ comming soon
 
 See also the EPFL regular master course materials
 https://github.com/epfml/OptML_course
+
+
+### Authors:
+Course given by Martin, Anastasia & Thijs
+    
+[MLO lab at EPFL](http://mlo.epfl.ch)
+  
