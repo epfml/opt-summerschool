@@ -8,7 +8,7 @@ Slides and Practical Labs - [DS3 Data Science Summer School](https://ds3-datasci
  - Additional lecture notes and exercises: [here](https://github.com/epfml/OptML_course/raw/master/lecture_notes/lecture-notes.pdf)
  
  - Practical Python Notebooks:
- comming soon
+ [template](../../raw/master/DS3 Optimization Tutorial.ipynb), [solution](../../raw/master/Solutions.ipynb)
 
 See also the EPFL regular master course materials
 https://github.com/epfml/OptML_course
