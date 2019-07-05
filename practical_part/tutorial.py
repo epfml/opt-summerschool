@@ -1,3 +1,5 @@
+# by Thijs Vogels
+
 import json
 import os
 import pickle
